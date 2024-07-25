@@ -1,0 +1,5 @@
+# Workshop: Add An Animation Track
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21056/preview?verifier=pKcTAT32DlKXg5sTq05iTQOB4iooT9SbUqL5FZUN" alt="Artboard 47.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21056" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21057/preview?verifier=bZpv7ukDVtYO8zo2Kef9GHPXjSumCOwYyhVK54VJ" alt="Artboard 48.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21057" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21058/preview?verifier=S8J2v65VQE0ZnCx8aE1CYH58X3ngBD607O0v3BWt" alt="Artboard 49.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21058" data-api-returntype="File"></p>
