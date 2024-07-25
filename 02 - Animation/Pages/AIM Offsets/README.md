@@ -1,0 +1,6 @@
+# AIM Offsets
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21093/preview?verifier=z6xrnnUrPtsQwO8gzPjNdYCsEMsgI1ErWwBwhAXb" alt="Artboard 18.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21093" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21094/preview?verifier=Sml5A5CMgIhBoNAoB6iLFfPyw92D2K5XjSOuyPUG" alt="Artboard 19.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21094" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21095/preview?verifier=2ZQhjUOG0IuV1cROfq1lrR5sCUPz6c2Errv26c2i" alt="Artboard 20.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21095" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21096/preview?verifier=2zdObBneRdEZVpJxb4KPXhwO9LZWDYSRFN6y7XCN" alt="Artboard 21.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21096" data-api-returntype="File"></p>
