@@ -1,0 +1,5 @@
+# Anim Dynamics
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21064/preview?verifier=vEPLQMFDSVC3nEqqM5xwD9vrdslQqf4N380zPPzo" alt="Artboard 9.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21064" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21065/preview?verifier=w8fIL0PdZCPCUmKvikxAzAaQ01ULK0XUvIj1zq3c" alt="Artboard 10.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21065" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21066/preview?verifier=pOIfxPoEdshLDDhOxkpDtsPotOYIqPyx0eUcUOnU" alt="Artboard 11.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21066" data-api-returntype="File"></p>
