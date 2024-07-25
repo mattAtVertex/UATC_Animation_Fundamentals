@@ -1,0 +1,6 @@
+# 5.0 Animation Editors and features
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21007/preview?verifier=zzKGmySZiuxuWRkUIzie51zg3MjQwvhcDexmNMMu" alt="Artboard 4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21007" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21008/preview?verifier=sJjdvyMfsEmaydom7xtpolJ39YlIuwQmAZYJo52m" alt="Artboard 5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21008" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21009/preview?verifier=bXwNTaoMDkDXfW6Sg1LBCg6zu8i1sQOvM8p3q8dN" alt="Artboard 6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21009" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21010/preview?verifier=Vesq2ppZygQeZPwWi4LdgmmjTwCuqD7DE3WSiyxx" alt="Artboard 7.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21010" data-api-returntype="File"></p>
