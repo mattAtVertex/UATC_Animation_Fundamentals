@@ -1,0 +1,11 @@
+# Skeleton, Mesh and Animation Sub Editors
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21046/preview?verifier=q6nWyebXH7rDufcjKOyqUUr0miFgmK3fP5MLzwF2" alt="Artboard 38.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21046" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21047/preview?verifier=fCnXYBuaUKE6FWSyBS9Rg5sOM0RyLlyE0Lw5QoLL" alt="Artboard 39.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21047" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21048/preview?verifier=i5Size2VzDnJDBVgbuwFcgWtAetZe0LyzIPJIZ2G" alt="Artboard 40.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21048" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21049/preview?verifier=mQRrM0m3BHDG8HnPM8t4TCDbbbpokh9ZnZGSVEcb" alt="Artboard 41.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21049" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21050/preview?verifier=ng6j2wd74PGaMJ8xlcMqZQBDMkRAJ0V5oZwFZUqh" alt="Artboard 42.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21050" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21051/preview?verifier=XIBzCobGOabtorKWv2fCMjr7MNhpqGUB9v5HC1C4" alt="Artboard 43.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21051" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21052/preview?verifier=Y42zkboKmhpIivQaZhQUN1TtxZQJ1p66Us3nQ5LR" alt="Artboard 44.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21052" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21053/preview?verifier=K1WXA228mIIzfnPQqyYPOTTFBd8LpEYnOWS3F31d" alt="Artboard 45.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21053" data-api-returntype="File"></p>
+<p>&nbsp;</p>
