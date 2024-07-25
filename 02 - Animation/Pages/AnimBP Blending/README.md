@@ -1,0 +1,6 @@
+# AnimBP Blending
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21060/preview?verifier=Z5uRTp3omc9nUYFOyilUaUCoQBgSGU4GUJmLAEsl" alt="Artboard 4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21060" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21061/preview?verifier=mOigJOgRMdSID1RxW09tJ2zPC2o77uEfzmft7pFH" alt="Artboard 5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21061" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21062/preview?verifier=ejZdm8OsnKzFXB8n8OcJMFkIjlFuePQHYoJMfIni" alt="Artboard 6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21062" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21063/preview?verifier=SGM2mUDWVptgHO5dC6itih4WoBmXSsNsbZK6wsj7" alt="Artboard 7.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21063" data-api-returntype="File"></p>
