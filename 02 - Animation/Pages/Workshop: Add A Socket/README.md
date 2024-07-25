@@ -1,0 +1,10 @@
+# Workshop: Add A Socket
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21032/preview?verifier=c3ptYg4dXIcMGdRiM9W0LYIzmdgl0pNm1hBYtzTe" alt="Artboard 29.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21032" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21033/preview?verifier=42YrrF5sgZzhYgIo2N0Is6ZdaLg0r4BtC6bVfCtH" alt="Artboard 30.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21033" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21034/preview?verifier=wO2G510Lfs83IhTidbf8q1U8AHPR1t1Hni9Qjxa4" alt="Artboard 31.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21034" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21036/preview?verifier=JQetgO3zKMFl0EwBFfOhNlOFclHsh6QWEJ8kp8SV" alt="Artboard 32.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21036" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21037/preview?verifier=7EDd4Cp82ppj8pUwryDkiAlYeKmQcKsrUeVg80KD" alt="Artboard 33.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21037" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21038/preview?verifier=ikuboqi68Bg1m77rLPN5U95IzLjzULTqvFKCOhBg" alt="Artboard 34.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21038" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21039/preview?verifier=CAq2UIFQJwDaUm1xPp9VP4muFA65G8mdLtLeM3Sx" alt="Artboard 35.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21039" data-api-returntype="File"></p>
+<p>&nbsp;</p>
