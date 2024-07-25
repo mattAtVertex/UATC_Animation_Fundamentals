@@ -1,0 +1,5 @@
+# Workshop: Create An Animation
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21076/preview?verifier=yS8HL4uF9qTteRegGfuNBNHPUeqMVoFZMqqedfLZ" alt="Artboard 22.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21076" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21077/preview?verifier=2ppuQBQANotDFN1xllMjvFBdOKsAvC8Xugmct7gL" alt="Artboard 23.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21077" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21078/preview?verifier=OolZhnQA2Pd6OHuOINYH2X4heniTAmlu3CCN0quA" alt="Artboard 24.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21078" data-api-returntype="File"></p>
