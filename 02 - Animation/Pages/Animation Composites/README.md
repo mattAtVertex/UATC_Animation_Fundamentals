@@ -1,0 +1,6 @@
+# Animation Composites
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21083/preview?verifier=X3DMIng8CIiuE1b8h9F45ZcVKGNyiu1MuLAlOLRf" alt="Artboard 7.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21083" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21084/preview?verifier=fSL3buBvG5YMHXsTOEjSBhQldaNFBhyUTc75oRCn" alt="Artboard 8.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21084" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21085/preview?verifier=GKcmKdCM3dEFYGVXNXPDrrI27HbjO7EuD1QegtDh" alt="Artboard 9.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21085" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21086/preview?verifier=m4ghIwXEriL19E9f2OEvkbJmsmwOY41JBRfAJEp4" alt="Artboard 10.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21086" data-api-returntype="File"></p>
