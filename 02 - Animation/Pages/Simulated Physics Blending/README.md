@@ -1,0 +1,8 @@
+# Simulated Physics Blending
+
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21067/preview?verifier=RPtb2tTNmpI45wjIEIt7AAExiJf0wbvc1GhhGSxe" alt="Artboard 12.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21067" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21068/preview?verifier=6pJkYly1DlvBTipmRdEh8soDsJfdCT5VzSpFj7GQ" alt="Artboard 13.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21068" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21069/preview?verifier=JpJxGALfJLqwP8mlqmgcEbg1GbvImhKpBme0nh4B" alt="Artboard 14.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21069" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21070/preview?verifier=pMw4uGKljKPyzfjBzNo0a3YSNVg4FwBX3nnRoRgH" alt="Artboard 15.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21070" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/316/files/21071/preview?verifier=R2mLjO1CAYlfGE57OK51lgNfJTQInUAJELHavL9m" alt="Artboard 16.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/316/files/21071" data-api-returntype="File"></p>
+<p>&nbsp;</p>
